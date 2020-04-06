@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://akagutz.github.io/portfolio-create-react-app/",
+  "homepage": "https://github.com/Akagutz/Akagutz.github.io.git",
   "dependencies": {
     "@carbon/icons-react": "^10.9.3",
     "@carbon/themes": "^10.10.3",
