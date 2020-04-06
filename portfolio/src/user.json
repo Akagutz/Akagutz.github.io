@@ -1,298 +1,99 @@
 {
     "basics": {
-        "name": "Abdulgafar Ashiru",
-        "picture": "https://avatars0.githubusercontent.com/u/58340587?v=4",
-        "label": "CEO @piedpiper",
-        "headline": "Building decentralized internet for everyone",
-        "summary": "CEO of Pied Piper and working on a decentralized internet for everyone - PiperNet. PiperNet is powered by your devices, protective of your privacy, and programmed for your freedom.\n\nToday’s web is an Internet of Kings, dominated by monopolies that crush innovation and promote surveillance capitalism. Discover for yourself why we need PiperNet, the Internet of People™.",
-        "website": "http://www.piedpiper.com",
-        "blog": "https://aka.github.io/blog",
-        "yearsOfExperience": 2,
-        "id": "817c6e40-54a4-4212-890b-3bd5a1788f61",
-        "username": "akagutz",
-        "karma": 24,
-        "email": "gutz068@gmail.com",
-        "region": "Western Nigeria",
-        "location": {},
-        "phone": 09033427733,
-        "followers": 1,
-        "following": 0,
-        "profiles": [
-            {
-                "network": "GitHub",
-                "username": "akagutz",
-                "url": "https://github.com/akagutz"
-            },
-            {
-                "network": "Twitter",
-                "url": "https://twitter.com/@akagutz",
-                "username": "@piedpiper"
-            }
-        ]
+    "name": "Abdulgafar ",
+    "picture": "https://avatars3.githubusercontent.com/u/25517950?v=4",
+    "label": "Sparkplug",
+    "headline": "One🍴, light, internet, and code lover.⚡",
+    "summary": "Owing to my curious nature, I  find myself often exploring projects on component-systems and OOP designs. A times, I experiment with FP techniques and concepts of immutable in delivering simple automation. I enjoy learning best practices and state of art workflows for maintaining APIs and UIs using CI/CD pipelines and image builds in container technologies. I'm also a big fan of #Opensource #Fullstack  #Remote #ESNext. Furthermore, I  find fun in learning new languages like Arabic, Chinese and Hindi.",
+    "website": "akagutz.github.io/portfolio-create-react-app",
+    "blog": null,
+    "yearsOfExperience": null,
+    "id": "44d900f2-a5ea-46c7-8bb7-4dfbcc1fb6e0",
+    "username": "Akagutz",
+    "karma": 11,
+    "email": null,
+    "region": "Nigeria",
+    "location": {},
+    "phone": null,
+    "followers": 7,
+    "following": 108,
+    "profiles": [
+    {
+    "network": "gitconnected",
+    "username": "Akagutz",
+    "url": "https://gitconnected.com/Akagutz"
+    },
+    {
+    "network": "GitHub",
+    "username": "Akagutz",
+    "url": "https://github.com/Akagutz"
+    },
+    {
+    "network": "LinkedIn",
+    "url": "https://www.linkedin.com/in/abdulgafar-ashiru-391a5717b/",
+    "username": "abdulgafar-ashiru-391a5717b"
+    },
+    {
+    "network": "Twitter",
+    "url": "https://twitter.com/akagutz",
+    "username": "akagutz"
+    },
+    {
+    "network": "Stack Overflow",
+    "url": "https://stackoverflow.com/users/9815692/aka",
+    "username": "aka"
+    },
+    {
+    "network": "HackerRank",
+    "url": "https://www.hackerrank.com/akagutz",
+    "username": "akagutz"
+    }
+    ]
     },
     "skills": [
-        {
-            "name": "Nodejs",
-            "level": "intermediate",
-            "rating": 3,
-            "yearsOfExperience": 1,
-            "keywords": []
-        },
-        {
-            "name": "JavaScript",
-            "level": "intermediate",
-            "rating": 4,
-            "yearsOfExperience": 2,
-            "keywords": []
-        },
-        {
-            "name": "TypeScript",
-            "level": "beginner",
-            "rating": 4,
-            "yearsOfExperience": 1,
-            "keywords": []
-        },
-        {
-            "name": "React",
-            "level": "Beginner",
-            "rating": 2,
-            "yearsOfExperience": 1,
-            "keywords": []
-        }
+    {
+    "name": "JavaScript",
+    "level": "Intermediate",
+    "rating": 3,
+    "yearsOfExperience": 2,
+    "keywords": []
+    },
+    {
+    "name": "React",
+    "level": "Beginner",
+    "rating": 2,
+    "yearsOfExperience": 1,
+    "keywords": []
+    },
+    {
+    "name": "Nodejs",
+    "level": "Intermediate",
+    "rating": 3,
+    "yearsOfExperience": 2,
+    "keywords": []
+    },
+    {
+    "name": "MongoDB",
+    "level": "Beginner",
+    "rating": 2,
+    "yearsOfExperience": 2,
+    "keywords": []
+    },
+    {
+    "name": "Git",
+    "level": "Beginner",
+    "rating": 2,
+    "yearsOfExperience": 2,
+    "keywords": []
+    }
     ],
-    "projects": [
-        {
-            "name": "middle-out-compression",
-            "displayName": "middle-out-compression",
-            "summary": "Making files smaller",
-            "website": "http://www.hooli.xyz/",
-            "githubUrl": "https://github.com/portfolio-api-demo/middle-out-compression",
-            "primaryLanguage": "",
-            "languages": [
-                "Go",
-                "C++"
-            ],
-            "libraries": [],
-            "images": [
-                {
-                    "resolutions": {
-                        "micro": {
-                            "url": "https://project-images.gitconnectedcontent.com/88a0a093-c7b7-4928-a6fc-b03d174995de-micro",
-                            "size": 1228,
-                            "width": 32,
-                            "height": 22
-                        },
-                        "thumbnail": {
-                            "url": "https://project-images.gitconnectedcontent.com/88a0a093-c7b7-4928-a6fc-b03d174995de-thumbnail",
-                            "size": 4326,
-                            "width": 224,
-                            "height": 155
-                        },
-                        "mobile": {
-                            "url": "https://project-images.gitconnectedcontent.com/88a0a093-c7b7-4928-a6fc-b03d174995de-mobile",
-                            "size": 7821,
-                            "width": 400,
-                            "height": 277
-                        },
-                        "desktop": {
-                            "url": "https://project-images.gitconnectedcontent.com/88a0a093-c7b7-4928-a6fc-b03d174995de-desktop",
-                            "size": 7836,
-                            "width": 400,
-                            "height": 277
-                        }
-                    }
-                }
-            ],
-            "videos": [
-                {
-                    "url": "https://www.youtube.com/watch?v=oGB_VPrld0U&list=PLTTC1K14KAxHj6AftnRUD28SQaoVauvl3",
-                    "source": "youtube",
-                    "sourceId": "oGB_VPrld0U"
-                }
-            ]
-        },
-        {
-            "name": "pied-piper-coin",
-            "displayName": "pied-piper-coin",
-            "summary": "The currency of the open web",
-            "website": "http://www.piedpiper.com/",
-            "githubUrl": "https://github.com/portfolio-api-demo/pied-piper-coin",
-            "primaryLanguage": "",
-            "languages": [
-                "TypeScript",
-                "Go"
-            ],
-            "libraries": [
-                "Node.js",
-                "React"
-            ],
-            "images": [
-                {
-                    "resolutions": {
-                        "micro": {
-                            "url": "https://project-images.gitconnectedcontent.com/d9c4429c-de9b-4678-9f32-577dfcf89a08-micro",
-                            "size": 1337,
-                            "width": 32,
-                            "height": 25
-                        },
-                        "thumbnail": {
-                            "url": "https://project-images.gitconnectedcontent.com/d9c4429c-de9b-4678-9f32-577dfcf89a08-thumbnail",
-                            "size": 8197,
-                            "width": 224,
-                            "height": 176
-                        },
-                        "mobile": {
-                            "url": "https://project-images.gitconnectedcontent.com/d9c4429c-de9b-4678-9f32-577dfcf89a08-mobile",
-                            "size": 26404,
-                            "width": 600,
-                            "height": 470
-                        },
-                        "desktop": {
-                            "url": "https://project-images.gitconnectedcontent.com/d9c4429c-de9b-4678-9f32-577dfcf89a08-desktop",
-                            "size": 28130,
-                            "width": 800,
-                            "height": 627
-                        }
-                    }
-                }
-            ],
-            "videos": [
-                {
-                    "url": "https://www.youtube.com/watch?v=4pWD2ug4kV8",
-                    "source": "youtube",
-                    "sourceId": "4pWD2ug4kV8"
-                }
-            ]
-        }
-    ],
-    "work": [
-        {
-            "company": "Hendricks Venture Capital",
-            "position": "Founding Partner",
-            "website": "https://gitconnected.com",
-            "location": "San Francisco, CA",
-            "summary": "We fund companies trying to change the world",
-            "isCurrentRole": true,
-            "startDate": "2020-01-01",
-            "endDate": "",
-            "start": {
-                "year": 2020,
-                "month": 1
-            },
-            "end": {},
-            "highlights": []
-        },
-        {
-            "company": "Pied Piper",
-            "position": "CEO",
-            "website": "http://www.piedpiper.com/",
-            "location": "Silicon Valley, CA",
-            "summary": "I am the CEO of PiedPiper and working on providing free and decentralized internet.",
-            "isCurrentRole": false,
-            "startDate": "2014-04-01",
-            "endDate": "2019-12-01",
-            "start": {
-                "year": 2014,
-                "month": 4
-            },
-            "end": {
-                "year": 2019,
-                "month": 12
-            },
-            "highlights": [
-                "Launched PiperNet, a decentralized internet for the world",
-                "Created PiedPiperCoin, a cryptocurrency to support the open internet",
-                "Discovered Middle-Out Compression which provides the highest standard for lossless compression"
-            ]
-        },
-        {
-            "company": "Aviato",
-            "position": "Developer",
-            "website": "",
-            "location": "Fremont, CA",
-            "summary": "I built the aggregation algorithm to track flights",
-            "isCurrentRole": false,
-            "startDate": "2014-03-01",
-            "endDate": "2014-03-01",
-            "start": {
-                "year": 2014,
-                "month": 3
-            },
-            "end": {
-                "year": 2014,
-                "month": 3
-            },
-            "highlights": []
-        }
-    ],
-    "publications": [
-        {
-            "name": "Pied Piper News",
-            "summary": "Keep up with our company news and see how we're creating a decentralized internet bring the power back to the people",
-            "publisher": "Pied Piper",
-            "website": "http://www.piedpiper.com/company-news/",
-            "releaseDate": "2019-12-01",
-            "fullReleaseDate": {
-                "year": 2019,
-                "month": 12,
-                "day": null
-            }
-        }
-    ],
-    "education": [
-        {
-            "institution": "Stanford",
-            "area": "Computer Science",
-            "studyType": "Bachelor's of Science",
-            "startDate": "2012-01-01",
-            "endDate": "2014-01-01",
-            "start": {
-                "year": 2012,
-                "month": null
-            },
-            "end": {
-                "year": 2014,
-                "month": null
-            },
-            "description": "I studied computer science at Stanford",
-            "activities": "",
-            "gpa": "4.0/4.0",
-            "courses": []
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Startup Founders",
-            "position": "Mentor",
-            "website": "http://hooli.com",
-            "location": "San Francisco, CA",
-            "summary": "Mentoring startup founders to help them launch and grow their companies.",
-            "startDate": "2014-04-01",
-            "endDate": "2019-12-01",
-            "start": {
-                "year": 2014,
-                "month": 4
-            },
-            "end": {
-                "year": 2019,
-                "month": 12
-            },
-            "highlights": []
-        }
-    ],
-    "awards": [
-        {
-            "title": "Tethics Honorary Member",
-            "summary": "It's tech and ethics - tethics",
-            "awarder": "Gavin Belson Foundation",
-            "date": "2019-12-01",
-            "fullDate": {
-                "year": 2019,
-                "month": 12
-            }
-        }
-    ],
+    "projects": [],
+    "work": [],
+    "publications": [],
+    "education": [],
+    "volunteer": [],
+    "awards": [],
     "languages": [],
     "interests": [],
     "references": []
-}
+    }
