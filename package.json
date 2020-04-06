@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://github.com/Akagutz/Akagutz.github.io.git",
+  "homepage": "https://github.com/Akagutz/Akagutz.github.io.git",
   "dependencies": {
     "@carbon/icons-react": "^10.9.3",
     "@carbon/themes": "^10.10.3",
