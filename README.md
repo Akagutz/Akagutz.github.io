@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 > The Resume data is supplied by the http://gitconnected.com API service which uses 
 > the http://jsonresume.org schema, a community driven open source initiative for creating
-> JSON-based standard for resumes. The is released under the MIT license.
+> JSON-based standard for resumes. This is released under the MIT license.
 
 ---
 
