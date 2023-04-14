@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [My Resume](https://gitconnected.com/akagutz/resume)
 
-[My Portfolio](http://akagutz.github.io/portfolio-create-react-app)
+[My Portfolio](https://tinyurl.com/Devfolio9) 
 
 ---
 
